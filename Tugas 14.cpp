@@ -1,20 +1,3 @@
-
-agaaga823
-/
-Tugas-Lab-Algoritma-dan-Struktur-Data
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Tugas-Lab-Algoritma-dan-Struktur-Data/Tugas 14 no 1.cpp
-@agaaga823
-agaaga823 Add files via upload
- 1 contributor
-51 lines (47 sloc)  2.69 KB
 #include<iostream>
 #define maxstack 7  //*merupakan inisialisasi bahwa variable maxstack dapat menapung antrian sebanyak 7*//
 using namespace std;
