@@ -1,20 +1,3 @@
-
-agaaga823
-/
-Tugas-Lab-Algoritma-dan-Struktur-Data
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Tugas-Lab-Algoritma-dan-Struktur-Data/Tugas 13 no 1.cpp
-@agaaga823
-agaaga823 Add files via upload
- 1 contributor
-125 lines (116 sloc)  5.74 KB
 #include <iostream> //meliputi Include iostream, maksudnya adalah untuk memasukkan perintah perintah yang ada didalam iostream, seperti int, print, dst. Iostrem juga untuk bahasa C++//
 #include <iomanip> //agar setw bisa berjalan//
 using namespace std; //kita memasukkan std(standard) kepada namespace//
